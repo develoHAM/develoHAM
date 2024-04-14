@@ -3,7 +3,7 @@
 </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑🏻‍💻 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li>호기심을 해결하고자 하는 집념과 끊임없는 도전으로 꾸준히 성장하고 있는 신입 개발자 김대원입니다.</li><li>React, Node.js (Express), AWS, NGINX를 이용해 웹 애플리케이션을 개발하고 배포한 경험이 있습니다.</li><li>현재 프로젝트의 성능, 확장성, 그리고 유연성을 높이는 방법들에 관심이 있어 Redis 캐싱 전략과 Node.js 환경에서의 TDD, DI, DIP를 학습하고 있습니다.</li> </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li>React, Node.js (Express), AWS, NGINX를 이용해 웹 애플리케이션을 개발하고 배포한 경험이 있습니다.</li><li>현재 프로젝트의 성능, 확장성, 그리고 유연성을 높이는 방법들에 관심이 있어 Redis 캐싱 전략과 Node.js 환경에서의 TDD, DI, DIP를 학습하고 있습니다.</li> </div>
       <br>
       <div align= "center">
         <img src="https://github-readme-stats.vercel.app/api?username=develoHAM&custom_title=develoHAM's%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000" /> 
