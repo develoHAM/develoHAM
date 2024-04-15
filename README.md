@@ -7,7 +7,7 @@
       <br>
       <div align= "center">
         <img src="https://github-readme-stats.vercel.app/api?username=develoHAM&custom_title=develoHAM's%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develoHAM&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develoHAM&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000&hide=html" />
       </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
